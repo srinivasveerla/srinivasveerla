@@ -1,4 +1,5 @@
 # Hello, I'm Srinivas Veerla! 👋
+![Profile views](https://komarev.com/ghpvc/?username=srinivasveerla)
 
 Passionate about building software for personal needs, solving everyday challenges one commit at a time. ~~Let's code something useful!~~ Let's code anything! 
 Here are some technologies I work with:
